@@ -1,5 +1,5 @@
 # Animal-Generator
-##Introduction
+## Introduction
 This is a mini project of mine which shows random data on animals around the world. Some of the data that is shown image of the animal, type, habitat, location, diet, and many more. 
 
 ## Technologies
